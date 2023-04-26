@@ -1,4 +1,6 @@
-### Hi there 👋
+<div align="center"><img height="150" src="https://i.pinimg.com/originals/0c/6b/11/0c6b1149f8f6c2c8855a7720a88404d2.gif"</div>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=22&duration=3000&pause=1000&color=E8DF2C&center=true&vCenter=true&width=530&height=40&lines=Hi+there%2C+I'm+Lina!;Python+developer+with+a+twinkle+in+the+eye;Open+to+new+experiences+and+new+opportunities" alt="Typing SVG" /></a></h1>
+
 
 <!--
 **shershlina/shershlina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
