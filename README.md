@@ -26,3 +26,5 @@
 ---
   
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=shershlina&show_icons=true)
+  
+![Snake animation](https://github.com/shershlina/shershlina/blob/output/github-contribution-grid-snake.svg)
