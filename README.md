@@ -1,5 +1,5 @@
 <h1 align="center"><img height="150" src="https://i.pinimg.com/originals/0c/6b/11/0c6b1149f8f6c2c8855a7720a88404d2.gif"</h1>
-<div><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&pause=1000&color=E8DF2C&background=FFEB4700&center=true&vCenter=true&width=250&lines=Hi+there%2C+I'm+Lina!" alt="Typing SVG" /></a></div>
+<div><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&pause=1000&color=ff6700&background=FFEB4700&center=true&vCenter=true&width=250&lines=Hi+there%2C+I'm+Lina!" alt="Typing SVG" /></a></div>
   
 ### :woman_technologist: About Me :
   I am a Junior Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Novosibirsk, Russia.
@@ -25,4 +25,13 @@
 
 ---
   
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=shershlina&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=shershlina&show_icons=true&rank_icon=github&bg_color=87CEFA&title_color=FFFFFF)
+
+---
+
+### :computer: My recent projects :
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shershlina&repo=foodgram-project-react&title_color=ff6700)](https://github.com/shershlina/foodgram-project-react)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shershlina&repo=puzzle_project&title_color=ff6700)](https://github.com/shershlina/puzzle_project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shershlina&repo=homework_bot&title_color=ff6700)](https://github.com/shershlina/homework_bot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shershlina&repo=api_yamdb&title_color=ff6700)](https://github.com/shershlina/api_yamdb)
+  
