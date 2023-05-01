@@ -25,7 +25,7 @@
 
 ---
   
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=shershlina&show_icons=true&rank_icon=github&bg_color=87CEFA&title_color=FFFFFF&card_width=250)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=shershlina&show_icons=true&hide_rank=true&bg_color=87CEFA&title_color=FFFFFF&icon_color=ffde2b&text_color=3F1E77)
 [![GitHub Streak](https://streak-stats.demolab.com?user=shershlina&date_format=j%20M%5B%20Y%5D&card_width=400&ring=FF6700&currStreakLabel=FF6700&fire=FF6700&sideNums=FF6700)](https://git.io/streak-stats)
 
 ---
