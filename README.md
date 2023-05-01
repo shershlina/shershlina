@@ -26,6 +26,7 @@
 ---
   
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=shershlina&show_icons=true&rank_icon=github&bg_color=87CEFA&title_color=FFFFFF)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=shershlina)](https://git.io/streak-stats)
 
 ---
 
@@ -34,4 +35,3 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shershlina&repo=puzzle_project&title_color=ff6700)](https://github.com/shershlina/puzzle_project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shershlina&repo=homework_bot&title_color=ff6700)](https://github.com/shershlina/homework_bot)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shershlina&repo=api_yamdb&title_color=ff6700)](https://github.com/shershlina/api_yamdb)
-  
