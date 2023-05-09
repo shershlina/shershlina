@@ -25,13 +25,13 @@
 
 ---
   
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=shershlina&show_icons=true&hide_rank=true&bg_color=87CEFA&title_color=FFFFFF&icon_color=ffde2b&text_color=3F1E77)
+![Your Repository's Stats](https://github-readme-stats-shershonya-gmailcom.vercel.app/api?username=shershlina&show_icons=true&hide_rank=true&bg_color=87CEFA&title_color=FFFFFF&icon_color=ffde2b&text_color=3F1E77)
 [![GitHub Streak](https://streak-stats.demolab.com?user=shershlina&date_format=j%20M%5B%20Y%5D&card_width=400&ring=FF6700&currStreakLabel=FF6700&fire=FF6700&sideNums=FF6700)](https://git.io/streak-stats)
 
 ---
 
 ### :computer: My recent projects :
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shershlina&repo=foodgram-project-react&title_color=ff6700)](https://github.com/shershlina/foodgram-project-react)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shershlina&repo=puzzle_project&title_color=ff6700)](https://github.com/shershlina/puzzle_project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shershlina&repo=homework_bot&title_color=ff6700)](https://github.com/shershlina/homework_bot)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shershlina&repo=api_yamdb&title_color=ff6700)](https://github.com/shershlina/api_yamdb)
+[![Readme Card](https://github-readme-stats-shershonya-gmailcom.vercel.app/api/pin/?username=shershlina&repo=foodgram-project-react&title_color=ff6700)](https://github.com/shershlina/foodgram-project-react)
+[![Readme Card](https://github-readme-stats-shershonya-gmailcom.vercel.app/api/pin/?username=shershlina&repo=puzzle_project&title_color=ff6700)](https://github.com/shershlina/puzzle_project)
+[![Readme Card](https://github-readme-stats-shershonya-gmailcom.vercel.app/api/pin/?username=shershlina&repo=homework_bot&title_color=ff6700)](https://github.com/shershlina/homework_bot)
+[![Readme Card](https://github-readme-stats-shershonya-gmailcom.vercel.app/api/pin/?username=shershlina&repo=api_yamdb&title_color=ff6700)](https://github.com/shershlina/api_yamdb)
