@@ -3,7 +3,7 @@
   
 ### :woman_technologist: About Me :
   I am a Junior Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Novosibirsk, Russia.
-- :telescope: Now I'm looking for a job and working on my portfolio.
+- :telescope: Now I'm slowly working on my portfolio.
 - 🌱 I’m currently learning algorithms and improving my skills.
 - :mailbox:How to reach me: [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lintyajka)
   [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/229156299667931136/)
